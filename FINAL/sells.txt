@@ -1,0 +1,7 @@
+
+jell 500.00 afraz
+hair 500.00 saim
+
+cream 600.00 afraz
+colgate 35.00 afraz
+jell 500.00 daniyal
